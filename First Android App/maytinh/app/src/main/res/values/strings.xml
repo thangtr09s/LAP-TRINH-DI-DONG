@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">maytinh</string>
+    <string name="m_y_t_nh_i_n_t">Máy tính điện tử</string>
+    <string name="button">Button</string>
+    <string name="nh_p_v_o_s_1">Nhập vào số 1</string>
+    <string name="nh_p_v_o_s_2">Nhập vào số 2</string>
+    <string name="textview">TextView</string>
+</resources>
